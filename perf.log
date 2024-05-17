@@ -1,0 +1,216 @@
+
+Job <6162689> has been submitted to queue <q_sw_expr>
+waiting for dispatch ...
+!!!!!!! main block method: B=1, D=32, H=32, W=32, Ci=64, Co=64, bHo=32, bCo=64 ###
+$$$$$ LDM usage 125.500000 KB, im 76.500000 KB, filter 20.250000 KB, out 8.000000 KB. width=32
+#### sw3Dconv, time= 3.538088 ms, Perf= 2048.495490 Gflops, EE = 0.889104
+$$$$$ LDM usage 125.500000 KB, im 76.500000 KB, filter 20.250000 KB, out 8.000000 KB. width=32
+#### sw3Dconv, time= 3.470839 ms, Perf= 2088.186173 Gflops, EE = 0.906331
+$$$$$ LDM usage 125.500000 KB, im 76.500000 KB, filter 20.250000 KB, out 8.000000 KB. width=32
+#### sw3Dconv, time= 3.471802 ms, Perf= 2087.606623 Gflops, EE = 0.906079
+$$$$$ LDM usage 125.500000 KB, im 76.500000 KB, filter 20.250000 KB, out 8.000000 KB. width=32
+#### sw3Dconv, time= 3.469910 ms, Perf= 2088.744909 Gflops, EE = 0.906573
+$$$$$ LDM usage 125.500000 KB, im 76.500000 KB, filter 20.250000 KB, out 8.000000 KB. width=32
+#### sw3Dconv, time= 3.471184 ms, Perf= 2087.978428 Gflops, EE = 0.906241
+$$$$$ LDM usage 125.500000 KB, im 76.500000 KB, filter 20.250000 KB, out 8.000000 KB. width=32
+#### sw3Dconv, time= 3.470776 ms, Perf= 2088.224144 Gflops, EE = 0.906347
+$$$$$ LDM usage 125.500000 KB, im 76.500000 KB, filter 20.250000 KB, out 8.000000 KB. width=32
+#### sw3Dconv, time= 3.470768 ms, Perf= 2088.228689 Gflops, EE = 0.906349
+$$$$$ LDM usage 125.500000 KB, im 76.500000 KB, filter 20.250000 KB, out 8.000000 KB. width=32
+#### sw3Dconv, time= 3.471231 ms, Perf= 2087.950090 Gflops, EE = 0.906228
+$$$$$ LDM usage 125.500000 KB, im 76.500000 KB, filter 20.250000 KB, out 8.000000 KB. width=32
+#### sw3Dconv, time= 3.470100 ms, Perf= 2088.630409 Gflops, EE = 0.906524
+$$$$$ LDM usage 125.500000 KB, im 76.500000 KB, filter 20.250000 KB, out 8.000000 KB. width=32
+#### sw3Dconv, time= 3.472126 ms, Perf= 2087.412086 Gflops, EE = 0.905995
+########## done ##########
+dispatching ...
+Job 6162689 has been finished.
+
+Job <6162690> has been submitted to queue <q_sw_expr>
+waiting for dispatch ...
+!!!!!!! main block method: B=1, D=32, H=32, W=32, Ci=128, Co=128, bHo=16, bCo=64 ###
+$$$$$ LDM usage 167.500000 KB, im 102.000000 KB, filter 40.500000 KB, out 4.000000 KB. width=32
+#### sw3Dconv, time= 13.710799 ms, Perf= 2114.466780 Gflops, EE = 0.917737
+$$$$$ LDM usage 167.500000 KB, im 102.000000 KB, filter 40.500000 KB, out 4.000000 KB. width=32
+#### sw3Dconv, time= 13.640079 ms, Perf= 2125.429700 Gflops, EE = 0.922496
+$$$$$ LDM usage 167.500000 KB, im 102.000000 KB, filter 40.500000 KB, out 4.000000 KB. width=32
+#### sw3Dconv, time= 13.640659 ms, Perf= 2125.339396 Gflops, EE = 0.922456
+$$$$$ LDM usage 167.500000 KB, im 102.000000 KB, filter 40.500000 KB, out 4.000000 KB. width=32
+#### sw3Dconv, time= 13.639352 ms, Perf= 2125.543006 Gflops, EE = 0.922545
+$$$$$ LDM usage 167.500000 KB, im 102.000000 KB, filter 40.500000 KB, out 4.000000 KB. width=32
+#### sw3Dconv, time= 13.639831 ms, Perf= 2125.468414 Gflops, EE = 0.922512
+$$$$$ LDM usage 167.500000 KB, im 102.000000 KB, filter 40.500000 KB, out 4.000000 KB. width=32
+#### sw3Dconv, time= 13.638363 ms, Perf= 2125.697124 Gflops, EE = 0.922612
+$$$$$ LDM usage 167.500000 KB, im 102.000000 KB, filter 40.500000 KB, out 4.000000 KB. width=32
+#### sw3Dconv, time= 13.638510 ms, Perf= 2125.674265 Gflops, EE = 0.922602
+$$$$$ LDM usage 167.500000 KB, im 102.000000 KB, filter 40.500000 KB, out 4.000000 KB. width=32
+#### sw3Dconv, time= 13.638631 ms, Perf= 2125.655424 Gflops, EE = 0.922593
+$$$$$ LDM usage 167.500000 KB, im 102.000000 KB, filter 40.500000 KB, out 4.000000 KB. width=32
+#### sw3Dconv, time= 13.638810 ms, Perf= 2125.627439 Gflops, EE = 0.922581
+$$$$$ LDM usage 167.500000 KB, im 102.000000 KB, filter 40.500000 KB, out 4.000000 KB. width=32
+#### sw3Dconv, time= 13.639620 ms, Perf= 2125.501242 Gflops, EE = 0.922527
+########## done ##########
+dispatching ...
+Job 6162690 has been finished.
+
+Job <6162692> has been submitted to queue <q_sw_expr>
+waiting for dispatch ...
+!!!!!!! main block method: B=1, D=24, H=24, W=24, Ci=64, Co=64, bHo=24, bCo=64 ###
+$$$$$ LDM usage 86.125000 KB, im 48.750000 KB, filter 20.250000 KB, out 4.500000 KB. width=24
+#### sw3Dconv, time= 1.575082 ms, Perf= 1941.262223 Gflops, EE = 0.842562
+$$$$$ LDM usage 86.125000 KB, im 48.750000 KB, filter 20.250000 KB, out 4.500000 KB. width=24
+#### sw3Dconv, time= 1.504560 ms, Perf= 2032.253693 Gflops, EE = 0.882055
+$$$$$ LDM usage 86.125000 KB, im 48.750000 KB, filter 20.250000 KB, out 4.500000 KB. width=24
+#### sw3Dconv, time= 1.503218 ms, Perf= 2034.068291 Gflops, EE = 0.882842
+$$$$$ LDM usage 86.125000 KB, im 48.750000 KB, filter 20.250000 KB, out 4.500000 KB. width=24
+#### sw3Dconv, time= 1.503743 ms, Perf= 2033.358289 Gflops, EE = 0.882534
+$$$$$ LDM usage 86.125000 KB, im 48.750000 KB, filter 20.250000 KB, out 4.500000 KB. width=24
+#### sw3Dconv, time= 1.503584 ms, Perf= 2033.572861 Gflops, EE = 0.882627
+$$$$$ LDM usage 86.125000 KB, im 48.750000 KB, filter 20.250000 KB, out 4.500000 KB. width=24
+#### sw3Dconv, time= 1.503684 ms, Perf= 2033.437020 Gflops, EE = 0.882568
+$$$$$ LDM usage 86.125000 KB, im 48.750000 KB, filter 20.250000 KB, out 4.500000 KB. width=24
+#### sw3Dconv, time= 1.502886 ms, Perf= 2034.517633 Gflops, EE = 0.883037
+$$$$$ LDM usage 86.125000 KB, im 48.750000 KB, filter 20.250000 KB, out 4.500000 KB. width=24
+#### sw3Dconv, time= 1.503872 ms, Perf= 2033.182819 Gflops, EE = 0.882458
+$$$$$ LDM usage 86.125000 KB, im 48.750000 KB, filter 20.250000 KB, out 4.500000 KB. width=24
+#### sw3Dconv, time= 1.503999 ms, Perf= 2033.011585 Gflops, EE = 0.882384
+$$$$$ LDM usage 86.125000 KB, im 48.750000 KB, filter 20.250000 KB, out 4.500000 KB. width=24
+#### sw3Dconv, time= 1.503564 ms, Perf= 2033.600512 Gflops, EE = 0.882639
+########## done ##########
+dispatching ...
+Job 6162692 has been finished.
+
+Job <6162693> has been submitted to queue <q_sw_expr>
+waiting for dispatch ...
+!!!!!!! main block method: B=1, D=24, H=24, W=24, Ci=128, Co=128, bHo=24, bCo=128 ###
+$$$$$ LDM usage 212.750000 KB, im 97.500000 KB, filter 81.000000 KB, out 9.000000 KB. width=24
+#### sw3Dconv, time= 5.749844 ms, Perf= 2127.116756 Gflops, EE = 0.923228
+$$$$$ LDM usage 212.750000 KB, im 97.500000 KB, filter 81.000000 KB, out 9.000000 KB. width=24
+#### sw3Dconv, time= 5.669648 ms, Perf= 2157.204381 Gflops, EE = 0.936287
+$$$$$ LDM usage 212.750000 KB, im 97.500000 KB, filter 81.000000 KB, out 9.000000 KB. width=24
+#### sw3Dconv, time= 5.672356 ms, Perf= 2156.174694 Gflops, EE = 0.935840
+$$$$$ LDM usage 212.750000 KB, im 97.500000 KB, filter 81.000000 KB, out 9.000000 KB. width=24
+#### sw3Dconv, time= 5.672459 ms, Perf= 2156.135669 Gflops, EE = 0.935823
+$$$$$ LDM usage 212.750000 KB, im 97.500000 KB, filter 81.000000 KB, out 9.000000 KB. width=24
+#### sw3Dconv, time= 5.670540 ms, Perf= 2156.865213 Gflops, EE = 0.936139
+$$$$$ LDM usage 212.750000 KB, im 97.500000 KB, filter 81.000000 KB, out 9.000000 KB. width=24
+#### sw3Dconv, time= 5.671604 ms, Perf= 2156.460413 Gflops, EE = 0.935964
+$$$$$ LDM usage 212.750000 KB, im 97.500000 KB, filter 81.000000 KB, out 9.000000 KB. width=24
+#### sw3Dconv, time= 5.673191 ms, Perf= 2155.857299 Gflops, EE = 0.935702
+$$$$$ LDM usage 212.750000 KB, im 97.500000 KB, filter 81.000000 KB, out 9.000000 KB. width=24
+#### sw3Dconv, time= 5.670793 ms, Perf= 2156.768858 Gflops, EE = 0.936098
+$$$$$ LDM usage 212.750000 KB, im 97.500000 KB, filter 81.000000 KB, out 9.000000 KB. width=24
+#### sw3Dconv, time= 5.673281 ms, Perf= 2155.823183 Gflops, EE = 0.935687
+$$$$$ LDM usage 212.750000 KB, im 97.500000 KB, filter 81.000000 KB, out 9.000000 KB. width=24
+#### sw3Dconv, time= 5.671518 ms, Perf= 2156.493197 Gflops, EE = 0.935978
+########## done ##########
+dispatching ...
+Job 6162693 has been finished.
+
+Job <6162695> has been submitted to queue <q_sw_expr>
+waiting for dispatch ...
+!!!!!!! main block method: B=1, D=16, H=16, W=16, Ci=64, Co=64, bHo=16, bCo=64 ###
+$$$$$ LDM usage 55.750000 KB, im 27.000000 KB, filter 20.250000 KB, out 2.000000 KB. width=16
+#### sw3Dconv, time= 0.549721 ms, Perf= 1648.053917 Gflops, EE = 0.715301
+$$$$$ LDM usage 55.750000 KB, im 27.000000 KB, filter 20.250000 KB, out 2.000000 KB. width=16
+#### sw3Dconv, time= 0.481473 ms, Perf= 1881.661146 Gflops, EE = 0.816693
+$$$$$ LDM usage 55.750000 KB, im 27.000000 KB, filter 20.250000 KB, out 2.000000 KB. width=16
+#### sw3Dconv, time= 0.481766 ms, Perf= 1880.518928 Gflops, EE = 0.816197
+$$$$$ LDM usage 55.750000 KB, im 27.000000 KB, filter 20.250000 KB, out 2.000000 KB. width=16
+#### sw3Dconv, time= 0.481280 ms, Perf= 1882.415283 Gflops, EE = 0.817021
+$$$$$ LDM usage 55.750000 KB, im 27.000000 KB, filter 20.250000 KB, out 2.000000 KB. width=16
+#### sw3Dconv, time= 0.481207 ms, Perf= 1882.703892 Gflops, EE = 0.817146
+$$$$$ LDM usage 55.750000 KB, im 27.000000 KB, filter 20.250000 KB, out 2.000000 KB. width=16
+#### sw3Dconv, time= 0.481301 ms, Perf= 1882.333585 Gflops, EE = 0.816985
+$$$$$ LDM usage 55.750000 KB, im 27.000000 KB, filter 20.250000 KB, out 2.000000 KB. width=16
+#### sw3Dconv, time= 0.481160 ms, Perf= 1882.888230 Gflops, EE = 0.817226
+$$$$$ LDM usage 55.750000 KB, im 27.000000 KB, filter 20.250000 KB, out 2.000000 KB. width=16
+#### sw3Dconv, time= 0.481038 ms, Perf= 1883.363155 Gflops, EE = 0.817432
+$$$$$ LDM usage 55.750000 KB, im 27.000000 KB, filter 20.250000 KB, out 2.000000 KB. width=16
+#### sw3Dconv, time= 0.481533 ms, Perf= 1881.428423 Gflops, EE = 0.816592
+$$$$$ LDM usage 55.750000 KB, im 27.000000 KB, filter 20.250000 KB, out 2.000000 KB. width=16
+#### sw3Dconv, time= 0.481431 ms, Perf= 1881.827907 Gflops, EE = 0.816766
+########## done ##########
+dispatching ...
+Job 6162695 has been finished.
+
+Job <6162696> has been submitted to queue <q_sw_expr>
+waiting for dispatch ...
+!!!!!!! main block method: B=1, D=16, H=16, W=16, Ci=128, Co=128, bHo=16, bCo=128 ###
+$$$$$ LDM usage 152.000000 KB, im 54.000000 KB, filter 81.000000 KB, out 4.000000 KB. width=16
+#### sw3Dconv, time= 1.817967 ms, Perf= 1993.369143 Gflops, EE = 0.865178
+$$$$$ LDM usage 152.000000 KB, im 54.000000 KB, filter 81.000000 KB, out 4.000000 KB. width=16
+#### sw3Dconv, time= 1.747067 ms, Perf= 2074.264138 Gflops, EE = 0.900288
+$$$$$ LDM usage 152.000000 KB, im 54.000000 KB, filter 81.000000 KB, out 4.000000 KB. width=16
+#### sw3Dconv, time= 1.748175 ms, Perf= 2072.949462 Gflops, EE = 0.899718
+$$$$$ LDM usage 152.000000 KB, im 54.000000 KB, filter 81.000000 KB, out 4.000000 KB. width=16
+#### sw3Dconv, time= 1.747480 ms, Perf= 2073.774565 Gflops, EE = 0.900076
+$$$$$ LDM usage 152.000000 KB, im 54.000000 KB, filter 81.000000 KB, out 4.000000 KB. width=16
+#### sw3Dconv, time= 1.747039 ms, Perf= 2074.297383 Gflops, EE = 0.900303
+$$$$$ LDM usage 152.000000 KB, im 54.000000 KB, filter 81.000000 KB, out 4.000000 KB. width=16
+#### sw3Dconv, time= 1.748304 ms, Perf= 2072.796113 Gflops, EE = 0.899651
+$$$$$ LDM usage 152.000000 KB, im 54.000000 KB, filter 81.000000 KB, out 4.000000 KB. width=16
+#### sw3Dconv, time= 1.747374 ms, Perf= 2073.900102 Gflops, EE = 0.900130
+$$$$$ LDM usage 152.000000 KB, im 54.000000 KB, filter 81.000000 KB, out 4.000000 KB. width=16
+#### sw3Dconv, time= 1.748334 ms, Perf= 2072.760809 Gflops, EE = 0.899636
+$$$$$ LDM usage 152.000000 KB, im 54.000000 KB, filter 81.000000 KB, out 4.000000 KB. width=16
+#### sw3Dconv, time= 1.747714 ms, Perf= 2073.496118 Gflops, EE = 0.899955
+$$$$$ LDM usage 152.000000 KB, im 54.000000 KB, filter 81.000000 KB, out 4.000000 KB. width=16
+#### sw3Dconv, time= 1.748147 ms, Perf= 2072.982664 Gflops, EE = 0.899732
+########## done ##########
+dispatching ...
+Job 6162696 has been finished.
+
+Job <6162699> has been submitted to queue <q_sw_expr>
+waiting for dispatch ...
+!!!!!!! main block method: B=1, D=8, H=8, W=8, Ci=64, Co=64, bHo=8, bCo=64 ###
+$$$$$ LDM usage 34.375000 KB, im 11.250000 KB, filter 20.250000 KB, out 0.500000 KB. width=8
+#### sw3Dconv, time= 0.172746 ms, Perf= 655.564021 Gflops, EE = 0.284533
+$$$$$ LDM usage 34.375000 KB, im 11.250000 KB, filter 20.250000 KB, out 0.500000 KB. width=8
+#### sw3Dconv, time= 0.108701 ms, Perf= 1041.810662 Gflops, EE = 0.452175
+$$$$$ LDM usage 34.375000 KB, im 11.250000 KB, filter 20.250000 KB, out 0.500000 KB. width=8
+#### sw3Dconv, time= 0.110307 ms, Perf= 1026.644673 Gflops, EE = 0.445592
+$$$$$ LDM usage 34.375000 KB, im 11.250000 KB, filter 20.250000 KB, out 0.500000 KB. width=8
+#### sw3Dconv, time= 0.110425 ms, Perf= 1025.545539 Gflops, EE = 0.445115
+$$$$$ LDM usage 34.375000 KB, im 11.250000 KB, filter 20.250000 KB, out 0.500000 KB. width=8
+#### sw3Dconv, time= 0.108823 ms, Perf= 1040.649080 Gflops, EE = 0.451671
+$$$$$ LDM usage 34.375000 KB, im 11.250000 KB, filter 20.250000 KB, out 0.500000 KB. width=8
+#### sw3Dconv, time= 0.109884 ms, Perf= 1030.593626 Gflops, EE = 0.447306
+$$$$$ LDM usage 34.375000 KB, im 11.250000 KB, filter 20.250000 KB, out 0.500000 KB. width=8
+#### sw3Dconv, time= 0.109788 ms, Perf= 1031.503137 Gflops, EE = 0.447701
+$$$$$ LDM usage 34.375000 KB, im 11.250000 KB, filter 20.250000 KB, out 0.500000 KB. width=8
+#### sw3Dconv, time= 0.109223 ms, Perf= 1036.837970 Gflops, EE = 0.450016
+$$$$$ LDM usage 34.375000 KB, im 11.250000 KB, filter 20.250000 KB, out 0.500000 KB. width=8
+#### sw3Dconv, time= 0.109623 ms, Perf= 1033.054672 Gflops, EE = 0.448374
+$$$$$ LDM usage 34.375000 KB, im 11.250000 KB, filter 20.250000 KB, out 0.500000 KB. width=8
+#### sw3Dconv, time= 0.109706 ms, Perf= 1032.267867 Gflops, EE = 0.448033
+########## done ##########
+dispatching ...
+Job 6162699 has been finished.
+
+Job <6162700> has been submitted to queue <q_sw_expr>
+waiting for dispatch ...
+!!!!!!! main block method: B=1, D=8, H=8, W=8, Ci=128, Co=128, bHo=8, bCo=128 ###
+$$$$$ LDM usage 109.250000 KB, im 22.500000 KB, filter 81.000000 KB, out 1.000000 KB. width=8
+#### sw3Dconv, time= 0.352463 ms, Perf= 1285.199469 Gflops, EE = 0.557812
+$$$$$ LDM usage 109.250000 KB, im 22.500000 KB, filter 81.000000 KB, out 1.000000 KB. width=8
+#### sw3Dconv, time= 0.284452 ms, Perf= 1592.482500 Gflops, EE = 0.691182
+$$$$$ LDM usage 109.250000 KB, im 22.500000 KB, filter 81.000000 KB, out 1.000000 KB. width=8
+#### sw3Dconv, time= 0.283521 ms, Perf= 1597.712372 Gflops, EE = 0.693452
+$$$$$ LDM usage 109.250000 KB, im 22.500000 KB, filter 81.000000 KB, out 1.000000 KB. width=8
+#### sw3Dconv, time= 0.284150 ms, Perf= 1594.176267 Gflops, EE = 0.691917
+$$$$$ LDM usage 109.250000 KB, im 22.500000 KB, filter 81.000000 KB, out 1.000000 KB. width=8
+#### sw3Dconv, time= 0.282128 ms, Perf= 1605.600408 Gflops, EE = 0.696875
+$$$$$ LDM usage 109.250000 KB, im 22.500000 KB, filter 81.000000 KB, out 1.000000 KB. width=8
+#### sw3Dconv, time= 0.283752 ms, Perf= 1596.413564 Gflops, EE = 0.692888
+$$$$$ LDM usage 109.250000 KB, im 22.500000 KB, filter 81.000000 KB, out 1.000000 KB. width=8
+#### sw3Dconv, time= 0.282580 ms, Perf= 1603.029654 Gflops, EE = 0.695759
+$$$$$ LDM usage 109.250000 KB, im 22.500000 KB, filter 81.000000 KB, out 1.000000 KB. width=8
+#### sw3Dconv, time= 0.282917 ms, Perf= 1601.120817 Gflops, EE = 0.694931
+$$$$$ LDM usage 109.250000 KB, im 22.500000 KB, filter 81.000000 KB, out 1.000000 KB. width=8
+#### sw3Dconv, time= 0.282446 ms, Perf= 1603.793958 Gflops, EE = 0.696091
+$$$$$ LDM usage 109.250000 KB, im 22.500000 KB, filter 81.000000 KB, out 1.000000 KB. width=8
+#### sw3Dconv, time= 0.282829 ms, Perf= 1601.621510 Gflops, EE = 0.695148
+########## done ##########
+dispatching ...
+Job 6162700 has been finished.
