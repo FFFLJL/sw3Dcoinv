@@ -9,3 +9,9 @@ The executable file name, sunch as ***32_32_32_64_64*** represents the situation
 
 One can directly run the shell file ***test.sh*** to execute all the tests cases, 
 the output information (performance) is printed in a log file ***perf.log***
+
+The major information in it, for example, 
+
+```"#### sw3Dconv, time= 3.471184 ms, Perf= 2087.978428 Gflops, EE = 0.906241",```
+
+indicates runtime (milliseconds), compute performance (Gflops), and execution efficiency, respectively.
